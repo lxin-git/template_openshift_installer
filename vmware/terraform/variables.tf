@@ -4,7 +4,7 @@ variable "infranode_hostname" {
 
 variable "infra_private_ipv4_address" {
   type = "string"
-  default = "10.0.2.1"
+  default = "10.0.2.100"
 }
 
 variable "infra_private_ipv4_prefix_length" {
